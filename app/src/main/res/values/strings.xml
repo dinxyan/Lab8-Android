@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LabEight</string>
+    <string name="hello_world">Hello World! LabEight</string>
+    <string name="your_content">Type your content here</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="button_savedb">Save database</string>
+    <string name="result">result here</string>
+</resources>
